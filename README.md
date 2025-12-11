@@ -1,7 +1,6 @@
 # Command Gateway – Unbound Hackathon
 
 Live Demo: http://127.0.0.1:8000  
-Video Demo: https://loom.com/share/your-link-here
 
 Features:
 - API-key auth via headers
@@ -54,5 +53,6 @@ Admin key prints in terminal on first run (e.g. `admin_x1y2z3...`)
 `rm -rf /`, `:(){ :|:& };:`, `mkfs.*`, `> /dev/sd*`
 
 Built with FastAPI + HTMX + SQLModel – fully working, beautiful UI, real-time everything.
+
 
  
